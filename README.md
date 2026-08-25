@@ -6,6 +6,8 @@ NextGen Atlanta Showcase is a responsive agency site built to present digital se
 
 ![NextGen Atlanta live site](docs/live-site.png)
 
+[Watch the 75-second demo](docs/demo.mp4)
+
 ## Public portfolio edition
 
 This repository is a lightweight, sanitized portfolio edition of the deployed site. It preserves the application structure, form boundaries, and serverless integrations while excluding deployment history, production identifiers, and the large AI-generated hero video.
