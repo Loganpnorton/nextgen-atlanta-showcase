@@ -2,6 +2,18 @@
 
 NextGen Atlanta Showcase is a responsive agency site built to present digital services, explain pricing, capture qualified leads, and guide new clients through a structured onboarding workflow.
 
+**Live site:** [nextgenatlanta.com](https://www.nextgenatlanta.com/)
+
+![NextGen Atlanta live site](docs/live-site.png)
+
+[Watch the 75-second demo](docs/demo.mp4)
+
+## Public portfolio edition
+
+This repository is a lightweight, sanitized portfolio edition of the deployed site. It preserves the application structure, form boundaries, and serverless integrations while excluding deployment history, production identifiers, and the large AI-generated hero video.
+
+The video remains live at `nextgenatlanta.com` and is intentionally not duplicated in Git history. As of August 25, 2026, the deployed page loads the autoplay/muted hero asset from the same production domain. This repository does not claim to be the deployment source of record.
+
 ## Highlights
 
 - Responsive service, feature, pricing, and conversion sections
@@ -40,3 +52,5 @@ npm run build
 ```
 
 The onboarding workflow accepts business and domain coordination details only. Registrar passwords, API keys, and other account credentials must be exchanged through an approved secure access process, never through these forms.
+
+For a reviewer-friendly product tour, use the 75-second script in [`docs/demo-script.md`](docs/demo-script.md). The screenshot above was captured from the live site; do not submit the form while demoing unless you intend to send a real request.
